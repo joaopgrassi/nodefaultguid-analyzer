@@ -71,7 +71,7 @@ namespace NoDefaultGuidAnalyzer {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Should not use default guid implementation.
+        ///   Looks up a localized string similar to Should not use the default Guid implementation.
         /// </summary>
         internal static string AnalyzerMessageFormat {
             get {
