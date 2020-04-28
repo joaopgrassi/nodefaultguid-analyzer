@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29411.108
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDefaultGuidAnalyzer", "NoDefaultGuidAnalyzer\NoDefaultGuidAnalyzer\NoDefaultGuidAnalyzer.csproj", "{B61F5F1B-19A9-4D54-92EA-E0BF95C1C697}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDefaultGuidAnalyzer", "src\NoDefaultGuidAnalyzer\NoDefaultGuidAnalyzer.csproj", "{B61F5F1B-19A9-4D54-92EA-E0BF95C1C697}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDefaultGuidAnalyzer.Test", "NoDefaultGuidAnalyzer\NoDefaultGuidAnalyzer.Test\NoDefaultGuidAnalyzer.Test.csproj", "{A5BE8586-6994-4C07-AC7F-E71D87D445F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDefaultGuidAnalyzer.Test", "src\NoDefaultGuidAnalyzer.Test\NoDefaultGuidAnalyzer.Test.csproj", "{A5BE8586-6994-4C07-AC7F-E71D87D445F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDefaultGuidAnalyzer.Vsix", "NoDefaultGuidAnalyzer\NoDefaultGuidAnalyzer.Vsix\NoDefaultGuidAnalyzer.Vsix.csproj", "{14D4D7C7-92F3-4B64-95A2-1B369757F8FB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoDefaultGuidAnalyzer.Vsix", "src\NoDefaultGuidAnalyzer.Vsix\NoDefaultGuidAnalyzer.Vsix.csproj", "{14D4D7C7-92F3-4B64-95A2-1B369757F8FB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
