@@ -9,7 +9,7 @@ I went on and used a CombGuid implementation in my app all good. But: nothing pr
 
 ## Solution:
 
-The analyzer is pretty simple. It just scans for usages of `Guid.NewGuid()` and generates an error. As I'm still a beginner on this topic, the project it's just the default project template from VS with my try/read/try/error attempts until I got it do to what I wanted :). It's not perfect and there is definitely room for improvements for sure.
+The analyzer is pretty simple. It just scans for usages of `Guid.NewGuid()` and generates an error. As I'm still a beginner on this topic, the project it's just the default project template from VS with my try/read/try/error attempts until I got it do to what I wanted :). It's not perfect and there is definitely room for improvements, so PRs are welcome!
 
 ## In action
 
